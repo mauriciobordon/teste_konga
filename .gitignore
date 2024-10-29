@@ -12,8 +12,9 @@ local.properties
 .recommenders
 
 # Project and Classpath files
-.classpath
-.project
+# (removed to allow project imports)
+#.classpath
+#.project
 
 # External tool builders
 .externalToolBuilders/
